@@ -8,7 +8,10 @@ public class TestCalc {
 		System.out.println(msg);
 		
 		int sum = c.addNos(1000, 20000);
+		
 				System.out.println(sum);
+				
+				System.out.println("HIIIII");
 	}
 
 }
